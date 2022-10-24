@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzq-bot, a student in NJU
-- 👀 I’m interested in ML, RL, Quantitative Investment
-- 🌱 I’m currently learning MARL，Quantitative Investment
+- 👀 I’m interested in ML, RL, Quant
+- 🌱 I’m currently learning MARL，Quant
 - 📫 How to reach me 475731070@qq.com
 
 <!---

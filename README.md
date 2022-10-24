@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzq-bot, a student in NJU
-- 👀 I’m interested in ML, RL, Quant
+- 👀 I’m interested in DL, RL, Quant
 - 🌱 I’m currently learning MARL，Quant
 - 📫 How to reach me 475731070@qq.com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzq-bot, a student in NJU
-- 👀 I’m interested in DL, RL, Quant
-- 🌱 I’m currently learning MARL，Quant
+- 👀 I’m interested in DL, RL and games(x
+- 🌱 I’m currently learning DL, MARL
 - 📫 How to reach me 475731070@qq.com
 
 <!---
